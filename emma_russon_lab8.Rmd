@@ -1,5 +1,5 @@
 ---
-title: "emma_russon_lab8"
+title: "Lab8"
 output: html_document
 ---
 
@@ -9,4 +9,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-This is for lab 8.
+My name is Emma Russon.
